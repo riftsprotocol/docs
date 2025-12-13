@@ -12,8 +12,11 @@
     "tabs": [
       {
         "tab": "Guides",
-        "pages": ["Introduction to Rifts"],
         "groups": [
+          {
+            "group": "",
+            "pages": ["Introduction to Rifts"]
+          },
           {
             "group": "General Overview",
             "pages": [
