@@ -12,8 +12,8 @@
     "tabs": [
       {
         "tab": "Guides",
+        "pages": ["Introduction to Rifts"],
         "groups": [
-          {"pages": ["My Ungrouped Page"]},
           {
             "group": "General Overview",
             "pages": [
