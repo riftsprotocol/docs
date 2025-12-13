@@ -13,6 +13,7 @@
       {
         "tab": "Guides",
         "groups": [
+          {"pages": ["My Ungrouped Page"]},
           {
             "group": "General Overview",
             "pages": [
