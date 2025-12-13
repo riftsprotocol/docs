@@ -14,11 +14,39 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "General Overview",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Goals",
+              "Method",
+              "Plan"
+            ]
+          },
+          {
+            "group": "Revenue types",
+            "pages": [
+              "Pool Creator Fees",
+              "Trading & Arbitrage"
+            ]
+          },
+          {
+            "group": "Benefits",
+            "pages": [
+              "Token Holders",
+              "Users & Traders"
+            ]
+          },
+          {
+            "group": "Tokenomics & Profits",
+            "pages": [
+              "Tokenomics",
+              "Profits"
+            ]
+          },
+          {
+            "group": "Why we are Unique",
+            "pages": [
+              "Custom Oracle",
+              "Exploit resistant"
             ]
           }
         ]
