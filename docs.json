@@ -28,15 +28,15 @@
           {
             "group": "Revenue types",
             "pages": [
-              "Pool Creator Fees",
-              "Trading & Arbitrage"
+              "pool-creator-fees",
+              "trading-and-arbitrage"
             ]
           },
           {
             "group": "Benefits",
             "pages": [
-              "Token Holders",
-              "Users & Traders"
+              "token-holders",
+              "users-and-traders"
             ]
           },
           {
@@ -49,8 +49,8 @@
           {
             "group": "Why we are Unique",
             "pages": [
-              "Custom Oracle",
-              "Exploit resistant"
+              "cutsom-oracle",
+              "exploit-resistant"
             ]
           }
         ]
