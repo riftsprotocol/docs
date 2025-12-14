@@ -42,14 +42,14 @@
           {
             "group": "Tokenomics & Profits",
             "pages": [
-              "Tokenomics",
-              "Profits"
+              "tokenomics",
+              "profits"
             ]
           },
           {
             "group": "Why we are Unique",
             "pages": [
-              "cutsom-oracle",
+              "custom-oracle",
               "exploit-resistant"
             ]
           }
